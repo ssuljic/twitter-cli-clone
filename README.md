@@ -1,6 +1,6 @@
-# Twitter CLI clone 
+# Twitter CLI clone
 
-This application collects your user stream from twitter, and outputs it in your terminal in a pretty form.
+This application collects your user stream from Twitter, and outputs it in your terminal in a pretty form.
 
 ![image](http://www.imageno.com/image.php?id=dyt1sp9yoarm&kk=978796406 =585x280)
 
