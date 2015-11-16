@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require './lib/twitter_feed'
+require 'dotenv'
+
+Dotenv.load
+feed = TwitterFeed::Feed.new
+feed.start
