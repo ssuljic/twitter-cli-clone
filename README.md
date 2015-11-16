@@ -2,7 +2,7 @@
 
 This application collects your user stream from Twitter, and outputs it in your terminal in a pretty form.
 
-![image](http://www.imageno.com/image.php?id=dyt1sp9yoarm&kk=978796406 =585x280)
+![image](/screenshot.png)
 
 ## Usage
 
